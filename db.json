@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "titulo": "React desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/medium/036ad25e-7ad8-4668-9ab6-36b7eaa5a2db.png",
+            "price": 40,
+            "nombre": "Alvaro felipe"
+        },
+        {
+            "id": 2,
+            "titulo": "React desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/medium/d9b4688a-4959-4b57-af76-836504a94ba8.png",
+            "price": 40,
+            "nombre": "Alvaro felipe"
+        },
+        {
+            "id": 3,
+            "titulo": "React desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/262e68b3-eea2-43f2-9e9a-febc106a8295.png",
+            "price": 40,
+            "nombre": "Alvaro felipe"
+        },
+        {
+          
+            "id": 4,
+            "titulo": "React desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/medium/d9b4688a-4959-4b57-af76-836504a94ba8.png",
+            "price": 30,
+            "nombre": "Alvaro felipe"
+        },
+        {
+            "id": 5,
+            "titulo": "React desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/medium/036ad25e-7ad8-4668-9ab6-36b7eaa5a2db.png",
+            "price": 20,
+            "nombre": "Alvaro felipe"
+        },
+        {
+            "id": 6,
+            "titulo": "React desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/262e68b3-eea2-43f2-9e9a-febc106a8295.png",
+            "price": 50,
+            "nombre": "Alvaro felipe"
+        },
+        {
+            "id": 7,
+            "titulo": "React desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/medium/036ad25e-7ad8-4668-9ab6-36b7eaa5a2db.png",
+            "price": 40,
+            "nombre": "Alvaro felipe"        
+        }
+    ]
+}
